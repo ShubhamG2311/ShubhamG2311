@@ -47,15 +47,13 @@
 
 ## **Connect with me** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/shubham-ghelani-a180a1201/](https://www.linkedin.com/in/shubham-ghelani-a180a1201/))
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />]([[https://www.instagram.com/_.deep_v/](https://www.instagram.com/shubhamghelani/)](https://www.instagram.com/shubhamghelani/))
-[<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ghelanishubham@gmail.com)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-ghelani-a180a1201/)
+[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shubhamghelani/)
+[<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ghelanishubahm@gmail.com)
 <br><br>
 
   
 ## **A Snake 🐍 Eating away my Contributions...😭**
 ![snake gif](https://raw.githubusercontent.com/ShubhamG2311/ShubhamG2311/output/github-contribution-grid-snake.svg)
 
-## **A bit of Humor to cheer up your visit...😃:**<br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
   
