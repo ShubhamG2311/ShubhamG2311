@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Shubham+Ghelani...;I+am+Tech+Enthusiast+and+Competitive+Programmer...)](https://git.io/typing-svg)
 
-## **A Quote📜**:
-
-<b> "Code never lies, comments sometimes do...."</b>
-
-<br>
-
 ## **About Me🙋‍♂️** 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
