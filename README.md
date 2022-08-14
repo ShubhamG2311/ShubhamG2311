@@ -52,8 +52,5 @@
 [<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ghelanishubahm@gmail.com)
 <br><br>
 
-  
-## **A Snake 🐍 Eating away my Contributions...😭**
-![snake gif](https://raw.githubusercontent.com/ShubhamG2311/ShubhamG2311/output/github-contribution-grid-snake.svg)
 
   
