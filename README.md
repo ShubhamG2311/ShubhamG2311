@@ -1,6 +1,6 @@
 <h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Shubham+Ghelani; I+am+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Shubham+Ghelani;I+am+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## **A Quote📜**:
 
